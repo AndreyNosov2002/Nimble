@@ -3,12 +3,12 @@
 |:-       |:-           |:-           |:-       |:-          |
 |	Освітленність навколишнього середовища| |незрозуміло|
 |Безпека праці|доступна|    |дорого|    |
-|	Отримання даних||
+|	Отримання даних|доступна|
 |танці|довго| |
 
-|потреба    |доступність    |зрозумілість    |цінність    |актуальність|
-|:-       |:-           |:-           |:-       |:-          |
-|стан фізичного здоров'я| |незрозуміло|велика
-|стан фізичного здоров'я|повільно|    |дорого|    |
-|професійне спілкування||
-|наукова діяльність|довго| |
+|:- |:-                   |:-                    |:-                |:-          |:-      |
+|Продукт / Пошукові фрази|software for state of physical health|software for clean air|software to find information|||
+|fitango - https://fitangohealth.com/|1|||Shareware||
+|CleanAir - https://cleanair.app/||2||Proprietary||
+|Google - https://www.google.com/|||1|Proprietary||
+|CleanAir - https://cleanair.app/||2||Proprietary||
