@@ -1,5 +1,5 @@
 
-|   |стан фізичного здоров'я|отримання інформаціі|чистота повітря|Тип ліцензії|Примітка|
+|   |стан фізичного здоров'я|чистота повітря |отримання інформаціі|Тип ліцензії|Примітка|
 |:- |:-                   |:-                    |:-                |:-          |:-      |
 |Продукт / Пошукові фрази|software for state of physical health|software for clean air|software to find information|||
 |fitango - https://fitangohealth.com/|1|||Shareware||
