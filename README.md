@@ -1,8 +1,8 @@
 
 ### Проблемний аналіз існуючих програмних продуктів
-|   |стан фізичне здоров'я|професійне спілкування|наукова діяльність|Тип ліцензії|Примітка|
+|   |Освітленність навколишнього середовища|Безпека праці|Отримання даних|Тип ліцензії|Примітка|
 |:- |:-                   |:-                    |:-                |:-          |:-      |
-|Продукт / Пошукові фрази|software for state of physical health|software for professional communication|software for research activities|||
-|fitango - https://fitangohealth.com/|1|||Shareware||
-|ClickUp - https://clickup.com/||2||Proprietary||
-|REF-N-WRITE Academic Writing Tool - https://www.ref-n-write.com/|||1|Shareware||
+|Продукт / Пошукові фрази|software for ambient lighting|software for Occupational Safety|software for data storage|||
+|lightjams - https://www.lightjams.com/video.html|1|||Shareware||
+|ideagen - https://www.ideagen.com/||2||Proprietary||
+|Azure - https://azure.microsoft.com/en-us/|||4|Shareware||
